@@ -1,0 +1,5 @@
+{
+  "DB_PATH": "communityfund.db",
+  "POOL_NAME": "Community Fund",
+  "VOTING_THRESHOLD": 0.6
+}
